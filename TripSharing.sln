@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripSharing.API", "TripSharing.API\TripSharing.API.csproj", "{54E2058E-D22B-478D-9C35-F710129A8958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripSharing.Domain", "TripSharing.Domain\TripSharing.Domain.csproj", "{819813CA-960E-48A9-9AC1-0FD83CEE630E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripSharing.Repository", "TripSharing.Repository\TripSharing.Repository.csproj", "{BC864DB8-E5C7-47FD-9067-AFE094EB4FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripSharing.Service", "TripSharing.Service\TripSharing.Service.csproj", "{3A8159EE-1F56-4B7F-9894-DD173D803392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E2058E-D22B-478D-9C35-F710129A8958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E2058E-D22B-478D-9C35-F710129A8958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E2058E-D22B-478D-9C35-F710129A8958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E2058E-D22B-478D-9C35-F710129A8958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819813CA-960E-48A9-9AC1-0FD83CEE630E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819813CA-960E-48A9-9AC1-0FD83CEE630E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819813CA-960E-48A9-9AC1-0FD83CEE630E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819813CA-960E-48A9-9AC1-0FD83CEE630E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC864DB8-E5C7-47FD-9067-AFE094EB4FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC864DB8-E5C7-47FD-9067-AFE094EB4FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC864DB8-E5C7-47FD-9067-AFE094EB4FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC864DB8-E5C7-47FD-9067-AFE094EB4FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8159EE-1F56-4B7F-9894-DD173D803392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8159EE-1F56-4B7F-9894-DD173D803392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8159EE-1F56-4B7F-9894-DD173D803392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8159EE-1F56-4B7F-9894-DD173D803392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

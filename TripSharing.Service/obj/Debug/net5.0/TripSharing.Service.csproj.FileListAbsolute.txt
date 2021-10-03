@@ -1,0 +1,17 @@
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/TripSharing.Service.deps.json
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/TripSharing.Service.dll
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/ref/TripSharing.Service.dll
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/TripSharing.Service.pdb
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.csproj.AssemblyReference.cache
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.AssemblyInfoInputs.cache
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.AssemblyInfo.cs
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.csproj.CoreCompileInputs.cache
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.dll
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/ref/TripSharing.Service.dll
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.pdb
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/TripSharing.Domain.dll
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/TripSharing.Repository.dll
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/TripSharing.Domain.pdb
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/bin/Debug/net5.0/TripSharing.Repository.pdb
+/home/serhii/RiderProjects/TripSharing/TripSharing.Service/obj/Debug/net5.0/TripSharing.Service.csproj.CopyComplete
