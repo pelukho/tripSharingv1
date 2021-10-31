@@ -11,7 +11,7 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="5.0.10" />
-        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.10">
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.11">
           <PrivateAssets>all</PrivateAssets>
           <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
@@ -34,10 +34,6 @@
     <ItemGroup>
       <ProjectReference Include="..\TripSharing.Repository\TripSharing.Repository.csproj" />
       <ProjectReference Include="..\TripSharing.Service\TripSharing.Service.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Migrations" />
     </ItemGroup>
 
     <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
