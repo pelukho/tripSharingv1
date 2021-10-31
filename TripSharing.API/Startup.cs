@@ -30,10 +30,7 @@ namespace TripSharing.API
             // In production, the React files will be served from this directory
             services.AddSpaStaticFiles(configuration => { configuration.RootPath = "ClientApp/build"; });
             
-            // some problem with build
-            // Your target project 'TripSharing.API' doesn't match your migrations assembly 'TripSharing.Repository'.
-            // Either change your target project or change your migrations assembly.
-            services.AddDbContext<ApplicationDbContext>(item => item.UseMySQL(Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("TripSharing.API")));
+            services.AddDbContext<ApplicationDbContext>(item => item.UseMySQL(Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("TripSharing.Repository")));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped<IDriverService, DriverService>();
         }
